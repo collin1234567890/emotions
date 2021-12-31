@@ -1,0 +1,10 @@
+body{
+    color: rgb(0, 47, 255);
+    background-color: hsl(160, 71%, 66%);
+
+}
+#camera{
+    border: 2px dashed red;
+    width: 350px;
+    height: 300px;
+}
